@@ -50,6 +50,9 @@ A **real-time embedded system** that:
 
 ## ⚙️ System Architecture
 
+ **Block Diagram**  
+  ![BD](https://github.com/midlaj-kp/chatroom-for-community/blob/main/chat.png)
+
 ### 🧩 Hardware Components
 
 - **Arduino UNO** – Base microcontroller
@@ -70,6 +73,9 @@ A **real-time embedded system** that:
 3. If emissions exceed safe levels, Arduino triggers pump dosing system
 4. Additive is blended into fuel based on pollutant type and required reduction
 5. ESP32 uploads data to cloud dashboard for monitoring and logging
+
+    **Model**  
+  ![Model](https://github.com/midlaj-kp/chatroom-for-community/blob/main/chat.png)
 
 ---
 
@@ -121,7 +127,7 @@ The **Automatic Fuel Blending System** is a practical, embedded innovation for i
 ---
 
 ## 📚 References
-
+- [Project Report](https://www.aftonchemical.com)
 - [Afton Chemical HiTEC® Additives](https://www.aftonchemical.com)
 - [Amsoil Fuel System Products](https://www.amsoil.com)
 - [MQ Sensor Datasheets – Sparkfun](https://www.sparkfun.com)
