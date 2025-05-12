@@ -119,6 +119,9 @@ A **real-time embedded system** that:
 - 🛠️ Custom ECU firmware for factory vehicles
 
 ---
+## Blynk Interface 
+
+![blynk](https://www.aftonchemical.com)
 
 ## 📝 Conclusion
 
