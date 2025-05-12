@@ -51,7 +51,7 @@ A **real-time embedded system** that:
 ## ⚙️ System Architecture
 
  **Block Diagram**  
-  ![BD](https://github.com/midlaj-kp/chatroom-for-community/blob/main/chat.png)
+  ![BD](https://github.com/midlaj-kp/AFBS/blob/main/BLOCK%20DIAGRAM.jpg)
 
 ### 🧩 Hardware Components
 
@@ -75,7 +75,7 @@ A **real-time embedded system** that:
 5. ESP32 uploads data to cloud dashboard for monitoring and logging
 
     **Model**  
-  ![Model](https://github.com/midlaj-kp/chatroom-for-community/blob/main/chat.png)
+  ![Model](https://github.com/midlaj-kp/AFBS/blob/main/pic.png)
 
 ---
 
@@ -119,9 +119,9 @@ A **real-time embedded system** that:
 - 🛠️ Custom ECU firmware for factory vehicles
 
 ---
-## Blynk Interface 
+## Monitoring Interface 
 
-![blynk](https://www.aftonchemical.com)
+![blynk](https://github.com/midlaj-kp/AFBS/blob/main/Untitled.jpg)
 
 ## 📝 Conclusion
 
@@ -130,7 +130,7 @@ The **Automatic Fuel Blending System** is a practical, embedded innovation for i
 ---
 
 ## 📚 References
-- [Project Report](https://www.aftonchemical.com)
+- [Project Report](https://github.com/midlaj-kp/AFBS/blob/main/AFBS%20Patent%20file.docx)
 - [Afton Chemical HiTEC® Additives](https://www.aftonchemical.com)
 - [Amsoil Fuel System Products](https://www.amsoil.com)
 - [MQ Sensor Datasheets – Sparkfun](https://www.sparkfun.com)
